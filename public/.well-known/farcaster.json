@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+      "header": "TODO_REPLACE_BASE64_HEADER",
+      "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+      "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+      "version": "1",
+      "name": "Blink",
+      "homeUrl": "https://blink.example.com/",
+      "iconUrl": "https://blink.example.com/assets/icon.png",
+      "splashImageUrl": "https://blink.example.com/assets/splash.png",
+      "splashBackgroundColor": "#020617",
+
+      "subtitle": "Tap into one word of focus.",
+      "description": "Blink shows you a single focus word in bold type. Tap to blink into a new one and anchor your attention for the moment.",
+      "primaryCategory": "productivity",
+      "tags": ["fun","simple","utility"],
+
+      "heroImageUrl": "https://blink.example.com/assets/hero.png",
+      "imageUrl": "https://blink.example.com/assets/embed-3x2.png",
+      "ogTitle": "Blink",
+      "ogDescription": "Blink shows you a single focus word in bold type. Tap to blink into a new one and anchor your attention for the moment.",
+      "ogImageUrl": "https://blink.example.com/assets/hero.png",
+
+      "screenshotUrls": [
+         "https://blink.example.com/assets/hero.png"
+      ],
+      "noindex": true
+  }
+}
